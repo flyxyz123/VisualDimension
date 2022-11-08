@@ -6,4 +6,4 @@ If I remember correctly, the process requires reference objects that have known 
 
 For example, if we know dimensions of the reference object and a straight line on reference object is 1 cm, if a straight line on the target part's contour is 2 times the length of the straight line on my reference object's contour, I can get the target part's straight line is 1x2=2cm. Same also applies to circle's radius, diagonal line, arc, etc.
 
-I think either main.c or main.c.bak is in the process of rewriting. Because it is wrote years ago, I can't remember which one, main.c.bak is more likely in the rewriting process. At that time, I was not using git because I was not fluent and was too afraid on using git.
+I think either main.c or main.c.bak is in the process of rewriting. Because it is wrote years ago, I can't remember which one, main.c.bak is more likely in the rewriting process. At that time, I was not using git because I was not fluent and was too afraid to use git.
