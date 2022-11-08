@@ -1,6 +1,6 @@
 This program is made public for demonstration and archive purpose. It is **very unfinished**. It involves a lot of hacks and workaround. It completely ignores many problems encountered. So don't even try to read it, it is a waste of time.
 
-A **unfinished** personal project of vision system (computer/machine vision) metrology software I wrote years ago (November 2017). It uses [OpenCV](https://github.com/opencv/opencv) to measure machine parts dimensions. Tested a little bit on some CAD pictures on Windows operating system. Gave up midway due to laziness and lack of knowledge. Was in the process of rewriting the software at that time, so probably **won't work**. Probably won't compile nowadays.
+An **unfinished** personal project of vision system (computer/machine vision) metrology software I wrote years ago (November 2017). It uses [OpenCV](https://github.com/opencv/opencv) to measure machine parts dimensions. Tested a little bit on some CAD pictures on Windows operating system. Gave up midway due to laziness and lack of knowledge. Was in the process of rewriting the software at that time, so probably **won't work**. Probably won't compile nowadays.
 
 If I remember correctly, the process requires reference objects that have known dimensions. I was using a circle and a polygon. First the program [thresholding](https://en.wikipedia.org/wiki/Thresholding_(image_processing)) the picture. Then it finds the contours. Finally, it measures the dimensions based on the contours data.
 
