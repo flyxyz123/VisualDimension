@@ -1,4 +1,4 @@
-﻿#include "vdMeasure.h"
+#include "vdMeasure.h"
 #include <limits.h>
 
 double vdCircleRadius(const CvSeq* c)
