@@ -5,3 +5,5 @@ An **unfinished** personal project of vision system (computer/machine vision) me
 If I remember correctly, the process requires reference objects that have known dimensions. I was using a circle and a polygon. First, the program [thresholding](https://en.wikipedia.org/wiki/Thresholding_(image_processing)) the picture. Then, it finds the contour. Finally, it measures the dimensions based on the contour data.
 
 For example, if we know the dimensions of the reference object and a straight line on the reference object's contour is 1 cm, if a straight line on the target part's contour is 2 times the length of the straight line on my reference object's contour, I can get the target part's straight line is 1x2=2cm. The same also applies to a circle's radius, diagonal line, arc, etc.
+
+In `backup` directory, there are some older source codes files. At that time, I was not using git because I was not fluent and was too afraid to use git.
